@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "patitas-online",
+    "private_key_id": "d0d9cbec8ce0de96f22c4a837e8128aaa7742217",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyUK6P1gRsyJ0q\nAkd4T+4MqXfZ5PnWQO+8h+y4V+n2aG4cri4YfP74MoJ4VB1MsF7hPyf3ZgsFWRA/\nMpl9NHZDjjYNaa6mZJYeuQ/NRmiAuIf+54gBN+BseO4Am6crVdbQVBIIbHYHzA92\nX+wU5CE7v3MnOvq4B9RwFn2jzucmo43vDUU5SFw9n8QvXAe0I6v9hESWaGk9x1kX\nDqrX9ddKM/7LNrIZsEBGxv3Og4Ms6zl1PNCqs4jpKGNsAfGMudad79OjvpcXgI9a\nA96XQF/9lORwzrM9gcK97ZrAj64M30HdV5g3J+n3u1WL/BJro383W/kvGXrlRE69\n2xQ+LfblAgMBAAECggEADcii1ceLbAVN8NNgRvKWyi/HbfZ/QYqffYlcSRuyoDOO\nX3UvZwEyjGkLINYPtb/kdbD2G++tZmpuERSOPNlzUuGJWBwVPhOEbzeK+yk4Jssc\n6B1pq/5vwLLQYwelMnpeMphtFG2d6hhiEZp0m2DPGNlBw4SRoOwqBcgXSjRSNfBJ\nmp1GCbfw+KTx1b3g4oAj5vHc8YBkksu3SxO7wjHauV6ud409JqVbXlDQTS+SgkG/\nOqHrP2wm0HSvk85e22/CDHTtjWorsZ2a/1bv7m3BGiKVKEF45tMF/kfUrwWoI9lF\nVvd0amLDxFz4WVB88jpinRA7Wd2fDFtcgM84UVYdAQKBgQDcHSmMPJ3t8gIvZlk9\nO3CPHIdm60YOy5JJNC37bao25CjipyA1tnF5540ZE5KfcNEKqlCdp9JWGgxHYEkr\nDrmc//BlhuTpT585wLGTAW09TVUrY6IUBD+sJBI4BEZz7LdEEeDDlVdlKEGI8fEe\n82yOLmfdDzGU68SPfowKja4BIQKBgQDPYvnStWpR96JOnFqvxVteAvUwxtwb04Tm\nTt2Ci6qu4+aIRQzZX8iG60tYwQLlDqkD0gpSrZxCcYxKguGSjdZPCEUQaEJtnV3q\n7TWhHntVOh5oKAap6/JOUtEHOkxNJqd5/ii848A9TMKhvEMHi6cu6kmxF0QgFq+1\nvQx6wQ2JRQKBgQCw/hock9mCLemn56q2XAdkbFJMZb8Nwo+8oWKgHEyUmt5tcmmq\nByw0FAcXNO/fmT3eT5lHTF0LsyJQepIbN1n1brAFU3TaTpYAQHwJc0o90uM7YoA/\njDMO3mpv9LAaIywyZhXP71Q5GSepULLManzNz27hCIib8QE7SUyeZ9KVQQKBgF3l\n2Wku3LG6JpHjNyhIemLpgeyQzU4ICi9g2+hkpmZDJ7jhUr0FIjz8QgQwd8gQSDRD\noIroskxfLv75nXqGn9buzp5sJk+NJd3dgx+tNnhTNTtBjCrZer89vgjAu5VfAAs7\nKWTE1eCrZaBnJg4/i/Ww/Kai+yRwQSRPMVxPFnrlAoGAcj0v7nFxAYLZM15veMti\npXAleZKjD8AP2t/DVHY0ZT+SXvsu5BtpPlr6yxD2LKwCGELozdw2IYGG54tci5ln\nsm79zRQscwVvhj/Gdcu0CGE5VSM1FMkylvQ7dsKT64iX9zABJUrSmTyQcUrCORtl\n6Qo8yZU6nT0gnIKCR+RXI3Y=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-j9ak4@patitas-online.iam.gserviceaccount.com",
+    "client_id": "109535902951171196986",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j9ak4%40patitas-online.iam.gserviceaccount.com"
+  }
+  
